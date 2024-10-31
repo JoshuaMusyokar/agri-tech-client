@@ -1,0 +1,24 @@
+.hero {
+  background: url("/public/bg.jpg") no-repeat center center/cover;
+  padding: 100px 0;
+}
+
+.feature-card {
+  border: none;
+  background-color: #f8f9fa;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  color: green;
+}
+
+.workflow img {
+  max-width: 100%;
+  height: auto;
+}
+
+.testimonial-text {
+  font-style: italic;
+  font-size: 1.2rem;
+}
